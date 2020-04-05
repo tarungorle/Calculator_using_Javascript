@@ -10,4 +10,4 @@
 ## Software used:
 - Brackets 
 
-# Here CSS plays a role in styling and look of the calculator, JavaScript know for logics and arthimetic math operations
+Here CSS plays a role in styling and look of the calculator, JavaScript know for logics and arthimetic math operations
