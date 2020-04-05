@@ -1,13 +1,13 @@
-# A simple Calculator
- A simple calculator using HTML, CSS &amp; Javascript
+# Calculator using Javascript
+ Tools i had used to create this project includes HTML,CSS and JavaScript 
  ![title-pic](https://github.com/tarungorle/Calculator_using_Javascript/blob/master/Calculator_Project.jpg)
- This is a simple calculator functionality achieved using Javascript. The logic is very simple with the minimum lines of code possible.
+ I tried using simple lines of code as possible
  
-## Steps to execute this calculator:
-- Download the entire code 
-- Open up the index.html.
+## How to Execute?
+- Download the code 
+- Open index.html file
 
-## Technologies used: 
-- HTML
-- CSS [style/Presentation]
-- Javascript [Logic/Working of calculator]
+## Software used:
+- Brackets 
+
+# Here CSS plays a role in styling and look of the calculator, JavaScript know for logics and arthimetic math operations
